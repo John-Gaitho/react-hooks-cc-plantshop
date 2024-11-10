@@ -41,6 +41,66 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 9
+    },
+    {
+      "name": "jy",
+      "image": "yw",
+      "price": "1.17",
+      "id": 10
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 11
+    },
+    {
+      "name": "jy",
+      "image": "yw",
+      "price": "0.13",
+      "id": 12
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 13
+    },
+    {
+      "name": "jy",
+      "image": "yw",
+      "price": "39",
+      "id": 14
+    },
+    {
+      "name": "aple",
+      "image": "",
+      "price": "500",
+      "id": 15
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 16
+    },
+    {
+      "name": "",
+      "image": "",
+      "price": "",
+      "id": 17
     }
   ]
 }

@@ -2,6 +2,8 @@ import React from "react";
 import Header from "./Header";
 import PlantPage from "./PlantPage";
 
+
+
 function App() {
   return (
     <div className="app">
@@ -10,5 +12,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;
